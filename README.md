@@ -1,6 +1,6 @@
 # 🎓 Placement Eligibility Streamlit Application  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project is a **Streamlit-based web application** designed to help placement teams, students, and training coordinators **assess placement eligibility** using programming performance, soft skills, and placement readiness data.  
 
 The app uses:  
@@ -11,7 +11,7 @@ The app uses:
 
 ---
 
-## 🚀 Features  
+## Features  
 - ✅ Generate synthetic student data (name, batch, programming, soft skills, placements)  
 - ✅ Store & manage data in **SQLite database**  
 - ✅ Apply **custom eligibility criteria** (e.g., Problems Solved > 50, Communication > 70, Mock Interview > 60)  
@@ -23,3 +23,4 @@ The app uses:
 ---
 
 ## 🗂️ Project Structure  
+
