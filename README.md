@@ -20,7 +20,4 @@ The app uses:
 - ✅ Visual analytics (bar charts, histograms, averages)  
 - ✅ Clean UI with sidebar navigation  
 
----
-
-## 🗂️ Project Structure  
 
